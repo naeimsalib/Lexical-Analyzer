@@ -1,0 +1,2 @@
+This is My Attempt to Build a lexical analyzer (also known as scanner) to read inputs from stdin and outputs to stdout.
+and reads Atoms , to make sure the Atoms inputed is Valid and outputs information and the input.
